@@ -1,0 +1,12 @@
+{
+  "name": "opencode-testing-repo",
+  "version": "1.0.0",
+  "description": "A test repository for OpenCode GitHub integration testing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/test.js",
+    "start": "node src/index.js"
+  },
+  "keywords": ["test", "github"],
+  "license": "MIT"
+}
